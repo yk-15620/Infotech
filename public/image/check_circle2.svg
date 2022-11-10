@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="check_circle2" transform="translate(-712 -198)">
+    <rect id="Path" width="24" height="24" transform="translate(712 198)" fill="rgba(0,0,0,0)"/>
+    <path id="Icon" d="M724,220a10,10,0,1,1,10-10A10.011,10.011,0,0,1,724,220Zm0-18a8,8,0,1,0,8,8A8.009,8.009,0,0,0,724,202Zm-2,13h0l-4-4,1.409-1.409L722,212.17l6.59-6.59L730,207l-8,8Z" fill="#fff"/>
+  </g>
+</svg>
